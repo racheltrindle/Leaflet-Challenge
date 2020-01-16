@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+h1 { font-size: 10pt; }
+h2 { font-size: 10pt; }
