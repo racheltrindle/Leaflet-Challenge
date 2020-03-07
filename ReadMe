@@ -1,0 +1,9 @@
+
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize (JSON). Use the URL of the JSON to pull data for visualization.
+
+
+Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+
+Data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
+
+Pop-ups provide additional information about the earthquake.
